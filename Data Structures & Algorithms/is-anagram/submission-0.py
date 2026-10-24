@@ -3,4 +3,3 @@ class Solution:
         w1=Counter(s)
         w2=Counter(t)
         return w1==w2
-        
